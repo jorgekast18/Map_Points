@@ -6,6 +6,6 @@ This project was created in React-Native. The project add a Marker when long pre
 
 1. Clone the repository.
 2. Navigate to the <Map_Point> folder.
-3. Install dependencies. `yarn install` or `npm install``
-4. Run the project. `yarn start` or `npm start``
+3. Install dependencies. `yarn install` or `npm install`
+4. Run the project. `yarn start` or `npm start`
 5. Choose the Android Emulator or iOS Emulator. Previously you must be configured emulators.
